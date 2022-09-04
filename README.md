@@ -1,7 +1,7 @@
 # hooly
 
 - URL pour faire une reservation d'un emplacement pour la foodTruck: 
-    - https://<host>/api/reservate
+    - [/api/reservate] (https://<host>/api/reservate)
 
 - exemple post data:
 ```json
